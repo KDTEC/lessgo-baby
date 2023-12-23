@@ -56,3 +56,21 @@ body {
     align-items: center;
     margin-left: 90px;
 }
+
+
+.site-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: large;
+}
+
+.site-footer p {
+    margin: 0;
+}
